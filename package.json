@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Hoppay-sama.github.com/ws101_react_todolist",
+  "homepage": "https://hoppay-sama.github.com/ws101_react_todolist",
   "name": "ws101_react_todolist",
   "version": "0.1.0",
   "private": true,
@@ -37,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
