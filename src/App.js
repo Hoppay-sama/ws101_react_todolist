@@ -1,4 +1,3 @@
-import Progress from './components/Progress/Progress';
 import Todo from './components/Todo/Todo';
 function App() {
   return (
