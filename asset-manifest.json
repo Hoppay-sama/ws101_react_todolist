@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Hoppay-sama/ws101_react_todolist/static/css/main.755b790f.css",
+    "main.js": "/Hoppay-sama/ws101_react_todolist/static/js/main.bf3c89ff.js",
+    "static/media/ejected.gif": "/Hoppay-sama/ws101_react_todolist/static/media/ejected.e46910dadc71281567d7.gif",
+    "index.html": "/Hoppay-sama/ws101_react_todolist/index.html",
+    "main.755b790f.css.map": "/Hoppay-sama/ws101_react_todolist/static/css/main.755b790f.css.map",
+    "main.bf3c89ff.js.map": "/Hoppay-sama/ws101_react_todolist/static/js/main.bf3c89ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.755b790f.css",
+    "static/js/main.bf3c89ff.js"
+  ]
+}
